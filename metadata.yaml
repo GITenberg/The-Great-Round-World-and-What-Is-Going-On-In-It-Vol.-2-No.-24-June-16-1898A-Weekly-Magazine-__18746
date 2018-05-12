@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6066'
     url: http://www.gutenberg.org/2009/agents/6066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18746#The-Great-Round-World-and-What-Is-Going-On-In-It-Vol.-2-No.-24-June-16-1898A-Weekly-Magazine-_
 gutenberg_bookshelf: The Great Round World And What Is Going On In It
 gutenberg_issued: '2006-07-03'
 gutenberg_type: Text
